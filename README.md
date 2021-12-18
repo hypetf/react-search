@@ -14,7 +14,7 @@
   <p align="center">
     A simple search bar created with ReactJS
     <br />
-    <a href="https://kjkml.csb.app/"><strong>View demo »</strong></a>
+    <a href="https://kjkml.csb.app/" target="_blank"><strong>View demo »</strong></a>
     <br />
 </div>
 
@@ -36,7 +36,7 @@ I do not recommend the used methods for big scaled projects and searches methods
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You can start by cloning this repository and start running it locally, or you can open the project on <a href="https://codesandbox.io/s/kjkml">codesanbox.io</a>.
+You can start by cloning this repository and start running it locally, or you can open the project on <a href="https://codesandbox.io/s/kjkml" target="_blank">codesanbox.io</a>.
 
 ### Prerequisites
 To run this project locally, you will need to have node.js installed.
