@@ -1,0 +1,20 @@
+Search.jsx: 20[]
+Search.jsx: 22 SyntheticBaseEvent {
+    _reactName: 'onChange',
+    _targetInst: null,
+    type: 'change',
+    nativeEvent: InputEvent,
+    target: input# inputSearch,
+    …
+}
+bubbles: truecancelable: falsecurrentTarget: nulldefaultPrevented: falseeventPhase: 3 isDefaultPrevented: ƒ functionThatReturnsFalse() isPropagationStopped: ƒ functionThatReturnsFalse() isTrusted: truenativeEvent: InputEvent {
+    isTrusted: true,
+    data: 'a',
+    isComposing: false,
+    inputType: 'insertText',
+    dataTransfer: null,
+    …
+}
+target: input# inputSearchtimeStamp: 1917.8000000715256 type: "change"
+_reactName: "onChange"
+_targetInst: null[[Prototype]]: Object
