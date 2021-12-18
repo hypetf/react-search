@@ -4,8 +4,8 @@ import {
   Route
 } from "react-router-dom";
 import Search from './Components/Search';
+import NotFound from "./Components/NotFound";
 import './Components/assets/css/main.css';
-import NotFound from "./NotFound";
 
 function App() {
   return (
