@@ -40,7 +40,7 @@ function Search() {
         if(str.length > 0) {
             arr.forEach(u => {
                 if(method === true) {
-                    if(u.query.toLowerCase().substring(0, str.toLowerCase().length) === str)
+                    if(u.query.toLowerCase().substring(0, str.length) === str.toLowerCase())
                         temp.push(u);
                 }
                 else {
